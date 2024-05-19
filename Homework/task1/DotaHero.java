@@ -10,6 +10,7 @@ public class DotaHero {
         hero2.setLvl(20);
         hero3.setMainSpec("Agility");
         hero4.set("Marci", "Uni", 30);
+        hero1.set("Sven", "Strength", 25);
         DotaHeroConstructor.displayCount();
         DotaHeroConstructor.display(hero4);
         DotaHeroConstructor.display(hero1, "Уровень");
