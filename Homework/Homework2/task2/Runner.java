@@ -18,7 +18,7 @@ public class Runner {
         try {
             pers1.getHobbies().add("Делать домашку вовремя");
         } catch(UnsupportedOperationException o) {
-           System.out.println("Да, это действительно невозможно");
+           System.out.println("Да, это точно не про меня");
         }
         System.out.println("На всякий случай проверим ещё раз hobbies: " + pers1.getHobbies());
 
