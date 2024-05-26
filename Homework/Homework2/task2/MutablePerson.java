@@ -1,4 +1,4 @@
-package Homework.task2.two;
+package Homework.Homework2.task2;
 import java.util.List;
 
 //А в этом классе final и неизменяемого списка не будет

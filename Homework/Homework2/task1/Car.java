@@ -1,4 +1,4 @@
-package Homework.task2.one;
+package Homework.Homework2.task1;
 
 public abstract class Car implements Vehicle{
 

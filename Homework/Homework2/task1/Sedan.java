@@ -1,4 +1,4 @@
-package Homework.task2.one;
+package Homework.Homework2.task1;
 
  public class Sedan extends Car {
     private String luxuryLevel;

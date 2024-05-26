@@ -1,4 +1,4 @@
-package Homework.task1;
+package Homework.Homework1;
 
 public class DotaHeroConstructor {
 
